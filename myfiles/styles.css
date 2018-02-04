@@ -1,9 +1,10 @@
 img {
     width: 50%;
 }
-header{
+.header{
     border: 2px solid black;
+	background-color: fc6767;
 }
-html{
-	background-color: light-blue;
+body{
+	background-color: #c3f3f7;
 }
